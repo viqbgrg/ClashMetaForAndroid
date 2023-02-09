@@ -32,6 +32,9 @@ data class Proxy(
         Tuic(false),
         WireGuard(false),
 
+        
+        Tiny(false),
+
 
         Relay(true),
         Selector(true),
