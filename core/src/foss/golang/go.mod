@@ -41,14 +41,15 @@ require (
 	github.com/lunixbochs/struc v0.0.0-20200707160740-784aaebc1d40 // indirect
 	github.com/mdlayher/netlink v1.7.2-0.20221213171556-9881fafed8c7 // indirect
 	github.com/mdlayher/socket v0.4.0 // indirect
-	github.com/metacubex/gvisor v0.0.0-20230315105319-c03631d706be // indirect
-	github.com/metacubex/quic-go v0.33.2 // indirect
+	github.com/metacubex/gvisor v0.0.0-20230323114922-412956fb6a03 // indirect
+	github.com/metacubex/quic-go v0.33.3-0.20230322045857-901b636b4594 // indirect
 	github.com/metacubex/sing-shadowsocks v0.1.1-0.20230226153717-4e80da7e6947 // indirect
-	github.com/metacubex/sing-tun v0.1.2 // indirect
+	github.com/metacubex/sing-tun v0.1.3-0.20230323115055-7935ba0ac8b3 // indirect
 	github.com/metacubex/sing-wireguard v0.0.0-20230310035749-f7595fcae5cb // indirect
 	github.com/miekg/dns v1.1.52 // indirect
 	github.com/mroth/weightedrand/v2 v2.0.1 // indirect
 	github.com/onsi/ginkgo/v2 v2.8.3 // indirect
+	github.com/openacid/low v0.1.21 // indirect
 	github.com/oschwald/geoip2-golang v1.8.0 // indirect
 	github.com/pierrec/lz4/v4 v4.1.17 // indirect
 	github.com/quic-go/qpack v0.4.0 // indirect
@@ -56,7 +57,7 @@ require (
 	github.com/quic-go/qtls-go1-20 v0.1.1 // indirect
 	github.com/sagernet/go-tun2socks v1.16.12-0.20220818015926-16cb67876a61 // indirect
 	github.com/sagernet/netlink v0.0.0-20220905062125-8043b4a9aa97 // indirect
-	github.com/sagernet/sing v0.2.0 // indirect
+	github.com/sagernet/sing v0.2.1-0.20230323071235-f8038854d286 // indirect
 	github.com/sagernet/sing-shadowtls v0.1.0 // indirect
 	github.com/sagernet/sing-vmess v0.1.3 // indirect
 	github.com/sagernet/tfo-go v0.0.0-20230303015439-ffcfd8c41cf9 // indirect
@@ -70,7 +71,7 @@ require (
 	go.etcd.io/bbolt v1.3.7 // indirect
 	go.uber.org/atomic v1.10.0 // indirect
 	golang.org/x/crypto v0.7.0 // indirect
-	golang.org/x/exp v0.0.0-20230213192124-5e25df0256eb // indirect
+	golang.org/x/exp v0.0.0-20230321023759-10a507213a29 // indirect
 	golang.org/x/net v0.8.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
 	golang.org/x/sys v0.6.0 // indirect
